@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+.results-container {
+    margin-top: 20px;
+}
+
+.flight-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
